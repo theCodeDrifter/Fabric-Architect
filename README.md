@@ -1,6 +1,8 @@
 # Fabric Architect
 
 Fabric Architect is a visual network design tool for Hyperledger Fabric blockchain networks. It provides a drag-and-drop canvas interface for designing, validating, and exporting production-ready Fabric network configurations.
+<img width="1909" height="952" alt="screenshot-1765713927298" src="https://github.com/user-attachments/assets/05db653e-a522-4063-9fd7-03dc96c5bd5a" />
+
 
 ## Features
 
