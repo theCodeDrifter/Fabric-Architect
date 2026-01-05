@@ -36,7 +36,7 @@ Fabric Architect is a visual network design tool for Hyperledger Fabric blockcha
 
 3. Start the development server:
    ```bash
-   npm run dev
+   npm run build
    ```
 
 ## Architecture
